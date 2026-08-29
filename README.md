@@ -22,10 +22,10 @@ Soy **Desarrollador de Software** en Puebla, México, apasionado por crear aplic
 ### 📊 Actividad en GitHub
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=FelixAlanRV&theme=tokyonight&hide_border=true" alt="Felix GitHub Streak" />
-  </a>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=FelixAlanRV&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8" alt="Felix Alan Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=FelixAlanRV&layout=compact&theme=tokyonight&hide_border=true&border_radius=8" alt="Top Languages" />
 </p>
+
 
 
 <!--
