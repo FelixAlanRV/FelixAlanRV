@@ -1,4 +1,9 @@
 <img width="3780" height="1890" alt="Diseño sin título (4)" src="https://github.com/user-attachments/assets/8bff7086-2fd0-408c-bfda-793bcc637a8b" />
+
+### 🛠️ Stack
+
+![Stack](https://skillicons.dev/icons?i=nextjs,react,tailwind,ts,cs,dotnet,nodejs,postgres,mongodb,python,docker,git&theme=dark)
+
 <!--
 **FelixAlanRV/FelixAlanRV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
