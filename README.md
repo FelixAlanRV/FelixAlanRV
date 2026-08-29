@@ -1,29 +1,5 @@
 <img src="https://github.com/user-attachments/assets/8bff7086-2fd0-408c-bfda-793bcc637a8b" width="100%" alt="Felix Alan Rodriguez Vazquez - Software Developer" />
 
-### 👨‍💻 Sobre mí
-
-Soy **Desarrollador de Software** en Puebla, México, apasionado por crear aplicaciones web escalables, arquitecturas de backend sólidas y sistemas de alto rendimiento. Me enfoco en escribir código limpio y diseñar soluciones intuitivas.
-
-- 🔭 **Actualmente trabajando en:** Proyectos Full Stack con Next.js, React y arquitecturas modernas.
-- 🌱 **Aprendiendo / Mejorando:** Servicios en la nube, optimización de sistemas y DevOps con Docker.
-- 💬 **Pregúntame sobre:** React, TypeScript, C#, Node.js y bases de datos SQL/NoSQL.
-- 📫 **Contacto directo:** [felixalan.dev@gmail.com](mailto:felixalan.dev@gmail.com)
-
-🌐 **[Portafolio](https://tu-portafolio.vercel.app)** · 💼 **[LinkedIn](https://linkedin.com/in/tu-usuario)** · 📄 **[Descargar CV](https://tu-portafolio.vercel.app/Curriculum%20Vitae%20Felix%20Alan%20Rodriguez%20Vazquez.pdf)**
-
----
-
-### 🛠️ Stack & Tecnologías
-
-![Stack](https://skillicons.dev/icons?i=nextjs,react,tailwind,ts,cs,dotnet,nodejs,postgres,mongodb,python,docker,git&theme=dark)
-
----
-
-### 📊 Actividad en GitHub
-
-<p align="center">
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FelixAlanRV&theme=tokyonight)](https://git.io/streak-stats)
-</p>
 
 
 
