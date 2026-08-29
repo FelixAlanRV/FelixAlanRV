@@ -1,4 +1,4 @@
-<img width="3780" height="1890" alt="Next js React Tailwind C# Node js SQL Mongo DB Python Docker" src="https://github.com/user-attachments/assets/34848f1a-1382-4e92-9ea6-0f35210fccbc" />
+<img width="3780" height="1890" alt="empleado del mes (3)" src="https://github.com/user-attachments/assets/615bfbab-ff51-4013-b8c3-e5ebda1ed78d" />
 <!--
 **FelixAlanRV/FelixAlanRV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
