@@ -1,10 +1,5 @@
 <img width="3780" height="1890" alt="Banner github" src="https://github.com/user-attachments/assets/22264298-05ce-4c50-a452-dd2f53ee0370" />
 
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=FelixAlanRV&theme=gotham" alt="GitHub Streak" />
-</p>
-
 <!--
 **FelixAlanRV/FelixAlanRV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
