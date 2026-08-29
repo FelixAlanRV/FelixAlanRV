@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/8bff7086-2fd0-408c-bfda-793bcc637a8b" width="100%" alt="Felix Alan Rodriguez Vazquez - Software Developer" />
+<img width="3780" height="1890" alt="Banner github" src="https://github.com/user-attachments/assets/22264298-05ce-4c50-a452-dd2f53ee0370" />
 
 
 <p align="center">
