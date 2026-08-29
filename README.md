@@ -17,6 +17,8 @@ Soy **Desarrollador de Software** en Puebla, México, apasionado por crear aplic
 
 ![Stack](https://skillicons.dev/icons?i=nextjs,react,tailwind,ts,cs,dotnet,nodejs,postgres,mongodb,python,docker,git&theme=dark)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FelixAlanRV&theme=tokyonight)](https://git.io/streak-stats)
+
 <!--
 **FelixAlanRV/FelixAlanRV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
