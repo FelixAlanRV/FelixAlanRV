@@ -1,4 +1,4 @@
-<img width="3780" height="1890" alt="Banner github" src="https://github.com/user-attachments/assets/beef93bd-a72d-47fe-a83f-d82693435354" />
+<img width="3780" height="1890" alt="empleado del mes" src="https://github.com/user-attachments/assets/6757cc7b-2325-4296-9253-fb30f57bf87c" />
 <!--
 **FelixAlanRV/FelixAlanRV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
