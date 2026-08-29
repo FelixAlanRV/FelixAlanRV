@@ -1,8 +1,21 @@
 <img width="3780" height="1890" alt="Banner github" src="https://github.com/user-attachments/assets/22264298-05ce-4c50-a452-dd2f53ee0370" />
 
+### 💫 About Me
+
+**Full Stack Developer** with experience in web development, working across the entire software lifecycle: from crafting intuitive **Frontend** interfaces to implementing solid **Backend** logic and **APIs**, alongside efficient **Database** management and modeling.
+
+Focused on building **scalable systems** and designing **robust architectures**, turning complex requirements into high-performance technological solutions and modern digital experiences.
+
+### 🛠️ Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,ts,cs,dotnet,nodejs,postgres,mongodb,python,docker,git&theme=dark" alt="Stack" />
+</p>
+
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=FelixAlanRV&theme=gotham&hide_border=true&type=svg&card_width=495" alt="GitHub Streak" />
 </p>
+
 
 <!--
 **FelixAlanRV/FelixAlanRV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
