@@ -7,7 +7,8 @@ Hi! I am a **Full Stack Developer** with **over a year of experience** in web de
 Focused on building **scalable systems** and designing **robust architectures**, turning complex requirements into high-performance technological solutions and modern digital experiences.
 
 <p align="center">
-  📫 <b>Contact:</b> <a href="mailto:felix.rodriguezv@alumno.buap.mx">felix.rodriguezv@alumno.buap.mx</a> • <a href="mailto:felixalan.dev@gmail.com">felixalan.dev@gmail.com</a>
+  📫 <b>Contact:</b> <a href="mailto:felix.rodriguezv@alumno.buap.mx">felix.rodriguezv@alumno.buap.mx</a> • <a href="mailto:felixalan.dev@gmail.com">felixalan.dev@gmail.com</a><br>
+  💻 <b>Portfolio:</b> <a href="https://felixalan.dev">https://felixalan.dev</a>
 </p>
 
 ### 🛠️ Stack
